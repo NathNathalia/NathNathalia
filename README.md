@@ -1,7 +1,7 @@
 ### Oi! Pode me chamar de Nanath! 👋
 
 - 🔭 I’m currently in a job hunting as a junior/ Atualmente buscando minha oportunidade como Dev junior
-- 🌱 I’m currently learning HTML + CSS/ Estudando HTML e CSS 
+- 🌱 I’m currently learning HTML + CSS/ Estudando HTML,CSS e C#
 - 📫 How to reach me/ Contato: nathaliapok15@gmail.com
 - 😄 Pronouns: she/her / ela/dela 
 
@@ -12,7 +12,7 @@
   <img align="center" alt="Nath-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Nath-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="right" alt="Nath-pic" height="150" src="https://discord.com/channels/@me/1103898113363693611/1121987868773060659/hi.gif" width=676&height=676>
+ <img align="right" alt="Nath-pic" height="150" src="https://discord.com/channels/@me/1103898113363693611/1121987868773060659/hi.gif">
 </div>
 ##
 
