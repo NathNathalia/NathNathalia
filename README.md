@@ -14,7 +14,7 @@
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="right" alt="Nath-pic" height="150" src="https://discord.com/channels/@me/1103898113363693611/1121987868773060659/hi.gif">
 </div>
-##
+
 
 
 <div>
