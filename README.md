@@ -3,7 +3,7 @@
 - 🔭 I’m currently in a job hunting as a junior/ Atualmente buscando minha oportunidade como Dev junior
 - 🌱 I’m currently learning HTML + CSS/ Estudando HTML,CSS e C#
 - 📫 How to reach me/ Contato: nathaliapok15@gmail.com
-- 😄 Pronouns: she/her / ela/dela 
+
 
 <div>
 <img heigth ="180em" src="https://github-readme-stats.vercel.app/api?username=NathNathalia&show_icons=true&theme=tokyonight&include_allcommits=true&count_private=true"/>
