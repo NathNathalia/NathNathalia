@@ -1,8 +1,6 @@
 ### Oi! Pode me chamar de Nanath! 👋
 
-- 🔭 I’m currently in a job hunting as a junior/ Atualmente buscando minha oportunidade como Dev junior
-- 🌱 I’m currently learning HTML + CSS/ Estudando HTML,CSS e C#
-- 📫 How to reach me/ Contato: nathaliapok15@gmail.com
+- 🌱 I’m currently in a job hunt as a junior/ Atualmente buscando minha oportunidade como Dev junior
 
 
 <div>
